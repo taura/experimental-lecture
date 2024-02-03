@@ -36,7 +36,7 @@
 ## Python
 <!--- end md --->
 
-<!--- code w kernel=python --->
+<!--- code w kernel=python points=1 --->
 def f(x):
   return x + 1
 
@@ -55,7 +55,7 @@ f(3)
 
 <!--- end md --->
 
-<!--- code w kernel=python --->
+<!--- code w kernel=python points=1 --->
 import time
 time.sleep(5.0)
 <!--- end code --->
@@ -75,7 +75,7 @@ time.sleep(5.0)
 * also try to reset kernel and restart server
 <!--- end md --->
 
-<!--- code w kernel=python --->
+<!--- code w kernel=python points=1 --->
 import time
 time.sleep(20.0)
 <!--- end code --->
@@ -92,13 +92,13 @@ time.sleep(20.0)
 
 <!--- end md --->
 
-<!--- code w kernel=bash --->
+<!--- code w kernel=bash points=1 --->
 # 表示されなかったらもう一回実行
 # if the result is not displayed, execute it again
 pwd
 <!--- end code --->
 
-<!--- code w kernel=bash --->
+<!--- code w kernel=bash points=1 --->
 ls
 <!--- end code --->
 
